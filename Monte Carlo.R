@@ -5,6 +5,7 @@ library(patchwork)
 
 set.seed(1)
 
+f <- function(x){
   dchisq(x, df = 3)
 }
 
