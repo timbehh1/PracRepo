@@ -2,19 +2,19 @@
 
 This is a Git Repository on STAT184 concepts, such as showing how to create a repository, edit it, and what to do when fixing files
 
-#Data Used
+# Data Used
 
 Not Currently Using Any Data
 
-#Current Plan 
+# Current Plan 
 
 Working on updating README files
 
-#Repo Organization
+# Repo Organization
 
 All files live at the top level currently
 
-#Contact Information
+# Contact Information
 
 My name is Timilehin Balogun. 
 My Major is Applied Data Science. 
